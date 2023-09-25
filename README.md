@@ -1,4 +1,6 @@
-# CoMSES Net Science Gateway CSSI 2023 PI meeting, Houston TX
+# CoMSES Net CSSI 2023 PI meeting, Houston TX
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comses/2023-cssi-poster/HEAD)
+
 Supporting materials and Jupyter notebooks for the 2023 NSF CSSI PI meeting
 
 ## From Metrics to Machine Learning
