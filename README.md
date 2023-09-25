@@ -20,12 +20,12 @@ How easy is it for our students to download, install and create a development en
 How do we help our students learn how to contribute to a real-world project with practical concerns of security, usability, maintainability, codebase consistency and style, etc., while maintaining clean code contribution workflows on Git and GitHub? How do we help them establish baseline competencies in the technologies, languages, and software frameworks we use?
 </details>
 
-Four undergraduate students joined us in January 2023 and helped us develop a [metrics page](https://comses.net/about/metrics). Along the way we revisited issues of data quality that all Science Gateways face, as developing useful usage metrics depends on _clean data_. Every public science gateway that supports user entered metadata will have metadata curation issues which can benefit from data science and machine learning support. In our case, this means record linkage and deduplication of user-entered metadata (e.g., tags and their [resultant folksonomies](https://www.sciencedirect.com/topics/computer-science/folksonomies)), as well as detection and warning systems for spam content and malicious actors.
+Four undergraduate students joined us in January 2023 and helped us develop a [metrics page](https://comses.net/about/metrics). Along the way we revisited issues of data quality that all Science Gateways face, as developing useful usage metrics depends on _clean data_. Every public science gateway that supports user entered metadata will have metadata curation issues which can benefit from data science and machine learning support. In our case, this means implementing data curation workflows that help human curators perform [entity resolution](https://doi.org/10.1145/2487575.2506179), record linkage and deduplication of user-entered metadata (e.g., tags and their [resultant folksonomies](https://www.sciencedirect.com/topics/computer-science/folksonomies)), and detection and early warning systems to identify spam content and malicious actors.
 
-Our intrepid students have put together interactive Jupyter notebooks that describe the technologies and processes we used to build these ML-assisted data curation workflows:
+Our intrepid students 🥳 have put together interactive Jupyter notebooks that describe the technologies and processes we used to build these ML-assisted data curation workflows:
 
-- Tag Deduplication by Noel Ngu
-- Spam Detection by Aiko Muraishi and Charles Sheelam
+- [Tag Deduplication](dedupe.ipynb) by [Noel Ngu](https://github.com/hwelsters)
+- [Spam Detection](spam_detection.ipynb) by [Aiko Muraishi](https://github.com/BlllueSea) and [Charles Sheelam](https://github.com/CharlesSheelam)
 
 ## cookiecutter Open Science Grid NetLogo template
 
