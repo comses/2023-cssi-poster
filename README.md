@@ -1,5 +1,5 @@
 # CoMSES Net CSSI 2023 PI meeting, Houston TX
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comses/2023-cssi-poster/HEAD)
+[![DOI](https://zenodo.org/badge/688560616.svg)](https://zenodo.org/doi/10.5281/zenodo.8394242) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/comses/2023-cssi-poster/HEAD)
 
 Supporting materials and Jupyter notebooks for the 2023 NSF CSSI PI meeting
 
